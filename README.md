@@ -1,2 +1,2 @@
-# todo-react
+# react-sample
 Created with CodeSandbox
